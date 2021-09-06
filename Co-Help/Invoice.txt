@@ -1,0 +1,6 @@
+Product Number: 2
+Product Name: Oxygen
+Quantity: 2
+Price: 2*500=1000
+Phone Number: 1234567890
+Date of Order: Mon Aug 16 16:13:20 IST 2021
